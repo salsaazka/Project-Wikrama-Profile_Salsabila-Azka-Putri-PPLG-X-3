@@ -1,0 +1,81 @@
+.jumbotron {
+  padding-top: 8rem;
+  background-color: rgb(207, 222, 255);
+}
+.section {
+  padding-top: 10rem;
+}
+
+body {
+  padding-top: 10rem;
+}
+
+.h1 {
+  text-align: center;
+}
+.per {
+  text-align: center;
+  padding-top: 25px;
+  padding: auto;
+}
+.p {
+  text-align: center;
+}
+img.tengah {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: auto;
+}
+.per2 {
+  padding-top: 5px;
+  margin-right: auto;
+  margin-left: auto;
+}
+#contact {
+  background-color: #ffffff;
+}
+#Home {
+  background-color: rgb(207, 222, 255);
+}
+#sejarah {
+  background-color: beige;
+}
+#matrikulasi {
+  background-color: rgb(207, 222, 255);
+}
+#kantin {
+  background-color: beige;
+}
+#perpus {
+  background-color: rgb(207, 222, 255);
+}
+#lain {
+  background-color: rgb(207, 222, 255);
+}
+
+.content2 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 300px;
+  background-color: rgb(207, 222, 255);
+  padding: 0 5%;
+  display: grid;
+}
+
+.card {
+  background-color: #f7f8f9;
+  transition: 0.3s;
+  width: 300px;
+  min-height: 200px;
+  padding: 32px;
+  margin: 61px 0;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card:hover {
+  background-color: #fbcb7b;
+}
