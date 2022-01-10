@@ -1,5 +1,5 @@
 .jumbotron {
-  padding-top: 8rem;
+  padding-top: 10rem;
   background-color: rgb(207, 222, 255);
 }
 .section {
@@ -18,6 +18,7 @@ body {
   padding-top: 25px;
   padding: auto;
 }
+
 .p {
   text-align: center;
 }
@@ -27,6 +28,7 @@ img.tengah {
   margin-right: auto;
   padding: auto;
 }
+
 .per2 {
   padding-top: 5px;
   margin-right: auto;
@@ -39,13 +41,13 @@ img.tengah {
   background-color: rgb(207, 222, 255);
 }
 #sejarah {
-  background-color: beige;
+  background-color: rgb(255, 239, 239);
 }
 #matrikulasi {
   background-color: rgb(207, 222, 255);
 }
 #kantin {
-  background-color: beige;
+  background-color: rgb(255, 239, 239);
 }
 #perpus {
   background-color: rgb(207, 222, 255);
@@ -77,5 +79,6 @@ img.tengah {
 }
 
 .card:hover {
-  background-color: #fbcb7b;
+  background-color: #ffe6ec;
+  transform: scale(1.2);
 }
